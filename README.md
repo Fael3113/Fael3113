@@ -15,7 +15,7 @@
 
 Sou **graduado em Engenharia da Computação** pela Universidade Anhembi Morumbi (2025), apaixonado por construir soluções backend robustas e escaláveis. Atualmente focado em aprimorar minhas habilidades técnicas através de cursos online e desafios de programação, sempre buscando evoluir como desenvolvedor.
 
-- 🎓 **Formação:** Engenharia da Computação - Anhembi Morumbi (2025)
+- 🎓 **Formação:** Engenharia da Computação - Anhembi Morumbi (2021-2025)
 - 🌍 **Localização:** São Paulo, Brasil
 - 🗣️ **Idiomas:** Português (Nativo), Inglês (B2 - CEFR)
 - 💼 **Foco Atual:** Desenvolvimento Backend com Java & Spring Boot
