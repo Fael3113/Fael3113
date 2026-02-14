@@ -71,20 +71,6 @@ graph LR
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![Estatísticas do GitHub de Rafael](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💡 Áreas de Interesse
 
 - ☕ **Desenvolvimento Backend** com Java & ecossistema Spring
@@ -96,24 +82,7 @@ graph LR
 
 ---
 
-## 📫 Vamos nos Conectar!
-
-Estou sempre aberto para discutir novos projetos, ideias interessantes ou oportunidades de colaboração. Sinta-se à vontade para entrar em contato!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-  
 ### ⭐ "O aprendizado contínuo é a chave para a melhoria contínua"
 
-**Obrigado por visitar meu perfil!** 🚀
 
 </div>
