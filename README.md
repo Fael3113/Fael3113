@@ -2,10 +2,7 @@
   
 # 👋 Bem-vindo! Eu sou Rafael de Melo Santiago
 
-### Engenheiro da Computação | Desenvolvedor Backend | Entusiasta Java
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+### Engenheiro da Computação | Desenvolvedor  
 
 </div>
 
