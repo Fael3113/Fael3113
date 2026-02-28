@@ -29,7 +29,7 @@ Sou **graduado em Engenharia da Computação** pela Universidade Anhembi Morumbi
 ![Microservices](https://img.shields.io/badge/Microserviços-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 ![Messaging](https://img.shields.io/badge/Mensageria-025E8C?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Roadmap 2025
+### Roadmap 2026
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -52,7 +52,7 @@ Sou **graduado em Engenharia da Computação** pela Universidade Anhembi Morumbi
 
 ---
 
-## 🎯 Caminho de Aprendizado 2025
+## 🎯 Caminho de Aprendizado 2026
 
 ```mermaid
 graph LR
