@@ -61,6 +61,16 @@ graph LR
     B --> D[Angular]
     B --> E[Docker]
     E --> F[AWS]
+
+    %% Classes
+    classDef concluido fill:#4CAF50,color:#fff,stroke:#2E7D32,stroke-width:2px;
+    classDef andamento fill:#FFC107,color:#000,stroke:#FF8F00,stroke-width:2px;
+    classDef pendente fill:#E0E0E0,color:#000,stroke:#9E9E9E,stroke-width:1px;
+
+    %% Aplicando classes
+    class A,C concluido;
+    class B,D andamento;
+    class E,F pendente;
 ```
 
 ✅ **Atual:** Java, Spring Boot, PostgreSQL, Microserviços, Mensageria  
