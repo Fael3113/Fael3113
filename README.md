@@ -57,10 +57,11 @@ Sou **graduado em Engenharia da Computação** pela Universidade Anhembi Morumbi
 ```mermaid
 graph LR
     A[Java & Spring Boot] --> B[Microserviços]
-    A --> C[PostgreSQL]
-    B --> D[Angular]
-    B --> E[Docker]
-    E --> F[AWS]
+    A --> C[SQL]
+    C --> D[NoSQL]
+    B --> E[Angular]
+    B --> F[Docker]
+    F --> G[AWS]
 
     %% Classes
     classDef concluido fill:#4CAF50,color:#fff,stroke:#2E7D32,stroke-width:2px;
@@ -69,8 +70,8 @@ graph LR
 
     %% Aplicando classes
     class A,C concluido;
-    class B,D andamento;
-    class E,F pendente;
+    class B andamento;
+    class D,E,F,G pendente;
 ```
 
 ✅ **Atual:** Java, Spring Boot, PostgreSQL, Microserviços, Mensageria  
